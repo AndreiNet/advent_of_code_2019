@@ -1,0 +1,10 @@
+[package]
+name = "task9"
+version = "0.1.0"
+authors = ["andrei"]
+edition = "2018"
+
+
+[dependencies]
+num-bigint = "0.2.3"
+num-traits = "0.2.10"
